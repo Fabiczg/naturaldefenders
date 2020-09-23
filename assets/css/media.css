@@ -1,0 +1,140 @@
+@media (min-width: 0px) and (max-width: 767px) {
+  .xl-text2 {
+    font-size: 30px;
+	}
+
+	.blog-content{
+		display: block;
+	}
+	.about{
+		display: block;
+	}
+
+	.form-sub{
+		display: block;
+	}
+
+	input.s-text7.w-full{
+		width: 100%;
+	}
+.four {
+   width: 100%;
+}
+
+.five{
+	width: 100%;
+}
+
+.logo-footer img {
+    width: 60%;
+}
+
+.image-about {
+    display: none;
+}
+
+.p-t-94 {
+    padding-top: 65px;
+}
+
+
+
+.logo-footer{
+	text-align: center;
+}
+
+.hereone {
+
+    align-items: center;
+    }
+	.flex-m.p-t-30{
+		justify-content: center;
+	}
+
+	.s-text12{
+		text-align: center;
+	}
+
+	.w-size25{
+		width: 100%;
+		display: flex;
+    justify-content: center;
+	}
+
+	.img-blog{
+		width: 100%;
+	}
+
+	.overlay0{
+		width: 100%;
+	}
+	.size2 {
+    width: auto!important;
+	}
+
+	.p-t-20 {
+    display: flex;
+    justify-content: center;
+	}
+	.res-products{
+		padding-top: 80px!important;
+	}
+
+	.product-desc{
+		padding-top: 60px!important;
+		padding-bottom: 60px!important;
+	}
+
+	.block1{
+		    margin-bottom: 60px;
+	}
+	.mask-item{
+		align-items: center;
+	}
+
+	.wrap-pic-w img {
+
+    object-fit: contain;
+	}
+
+	.block2 {
+    margin-bottom: 10%;
+}
+
+}
+
+  @media (min-width: 768px) and (max-width: 1024px) {
+.hamburger-inner:after, .hamburger-inner:before {
+
+    background-color: #b80d57!important;
+}
+
+.sizeof{
+	width: auto!important;
+}
+
+.blog-content {
+
+    flex-wrap: wrap;
+    }
+
+    .product-desc{
+		padding-bottom: 60px!important;
+	}
+
+	.mask-item{
+		align-items: center;
+	}
+	.five {
+    width: 41%;
+}
+
+	.respon3{
+		width: auto;
+	}
+
+	.w-size6{
+		width: auto;
+	}
+
+}
